@@ -1,7 +1,7 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Landing from './Landing';
-import SpinnerGame from './SpinnerGame';
+import SpinnerGame from './Spinnergame';
 import './App.css';
 
 function App() {
